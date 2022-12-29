@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   function fetchMoviesHandler() {
-    fetch();
+    fetch(1);
   }
 
   // const dummyMovies = [
